@@ -1,4 +1,3 @@
-
 🌟 درباره چرز
 
 چرز یک صفحه جستجوی تک‌فایلی، حریم‌محور و بدون ردگیری است که به شما امکان می‌دهد در موتورهای مستقل و آزاد جستجو کنید — بدون فیلتر، بدون رهگیری، بدون تبلیغات.
@@ -35,8 +34,10 @@ TRX = TPiDbYoBH3rFJfAgV3QL93FLNg4mM5DpVi
 USDC = TPiDbYoBH3rFJfAgV3QL93FLNg4mM5DpVi
 Donation sites: www.coffeete.ir/cafepersians
 Donation sites: https://zarinp.al/cafepersians
-Blog sites: https://cafepersians.blogix.ir
-Blog sites: https://supportme.blogix.ir
+
+ 
+sites: https://cafepersians.blogix.ir
+sites: https://supportme.blogix.ir
 Communication site: https://takl.ink/Cafepersian
 GitHub page: https://github.com/TechForAll1373
  
