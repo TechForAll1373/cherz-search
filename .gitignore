@@ -1,0 +1,13 @@
+# Cache & temp files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Browser artifacts
+cache/
+temp/
+
+# OS generated
+ehthumbs.db
+desktop.ini
